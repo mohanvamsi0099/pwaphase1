@@ -1,0 +1,41 @@
+{
+  "basics":{
+    "img":"images/minions.jpg",
+    "name":"vamsi",
+    "email":"ketham.vamsi09@gmail.com"
+  },
+  "career":{
+    "info":"blaa blaaa"
+  },
+  "education":[{
+    "sno":"1",
+    "name":"vamsi",
+    "college":"mits",
+    "area":"mpl"
+  },
+{
+  "sno":"2",
+"name":"sin",
+"college":"vidyanikethan",
+"area":"tpt"
+  },
+  {
+    "sno":"3",
+"name":"sam",
+"college":"mits",
+"area":"mpl"
+
+  }
+],
+"skills":[
+  {
+    "info":"c"
+  },
+  {
+    "info":"c++"
+  },
+  {
+    "info":"java"
+  }
+]
+}

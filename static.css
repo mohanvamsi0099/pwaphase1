@@ -1,0 +1,53 @@
+body{
+  background-color:  lightblue;
+}
+.parent
+{
+display: flex;
+margin: 1%;
+padding: 2%;
+justify-content: space-around;
+}
+img{
+  width: 50%;
+border: 10%
+}
+table{
+  border: 1px solid black
+
+}
+.child1
+{
+background-color:green;
+box-shadow: 3px 3px 3px black;
+margin:1%;
+border-radius: 5%;
+padding-top: 1%;
+border: 50%;
+text-align: center;
+}
+img{
+  width: 90%;
+  border-radius: 5%;
+
+}
+.child2{
+  border: 1px solid yellow;
+  padding: 2%;
+border: 50;
+text-align: center;
+}
+#child11{
+  width: 35%
+}
+#child22{
+  width: 65%
+}
+h1
+{
+  text-align: center;
+}
+h2
+{
+  text-align: center;
+}
